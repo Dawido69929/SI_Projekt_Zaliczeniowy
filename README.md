@@ -1,2 +1,2 @@
 Projekt zaliczeniowy z sztucznej inteligencji
-STAUS: NIE DZIAŁA
+STATUS: NIE DZIAŁA
